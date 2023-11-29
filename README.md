@@ -18,6 +18,7 @@ We do not use cookies in connection with the App.
 Service Providers
 
 We do not employ any third-party companies or individuals to facilitate the App or provide services related to the App.
+
 Security
 
 We value your trust in providing us your personal information, even though we do not collect any. Therefore, we are striving to use commercially acceptable means of protecting it. However, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
